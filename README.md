@@ -14,6 +14,22 @@
 
 ---
 
+# 🚀 Featured Project
+
+## 💰 FinAnt — Personal Finance Management Platform 🐜
+
+<p align="center">
+  <a href="https://finant-app.netlify.app">
+    <img src="https://img.shields.io/badge/View%20Live%20Project-58A6FF?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+</p>
+
+Personal finance management platform designed to help users track income, expenses, and everyday spending habits — from major payments to small daily purchases — providing better financial awareness and expense control.
+
+Built with Java Spring Boot, React, JavaScript, and PostgreSQL. Deployed in production using Render (Backend), Netlify (Frontend), and Supabase (Database).
+
+---
+
 ## 👨‍💻 About Me
 
 Backend-focused Software Developer building **secure, maintainable, and well-structured applications** in Java.
