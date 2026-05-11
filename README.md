@@ -74,6 +74,33 @@ public class JuanDiego extends Developer {
 
 ## 📌 Featured Projects
 
+### 💸 [FinAnt — Personal Finance Management Platform](https://finant-app.netlify.app/)
+
+<p>
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+</p>
+
+Full-stack personal finance platform built with Spring Boot, React, and PostgreSQL. Features JWT authentication, password recovery via email, account balance management, financial transactions (income, expenses, and transfers), personal notes, and secure REST APIs. Implements layered architecture, DTO validation, BCrypt password hashing, atomic balance updates, and cloud deployment using Render, Netlify, and Supabase.
+
+<p>
+  <a href="https://finant-app.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/JDiego0/FinAnt">
+    <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ### 🌐 [Nova — Full-Stack Absence Management Platform](https://github.com/JDiego0/nova)
 
 <p>
