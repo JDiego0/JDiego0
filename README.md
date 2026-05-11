@@ -115,7 +115,7 @@ Full-stack personal finance platform built with Spring Boot, React, and PostgreS
 Web platform developed for Institución Universitaria Pascual Bravo to centralize academic resources for Media Técnica programs. Features dynamic content management through configurable JavaScript data structures, organized access to institutional Drive folders, responsive design for mobile and desktop devices, and simplified deployment with Netlify integration.
 
 <p>
-  <a href="https://mediatecnicapb.netlify.app/">
+  <a href="https://mediatecnica.netlify.app/">
     <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
