@@ -101,6 +101,31 @@ Full-stack personal finance platform built with Spring Boot, React, and PostgreS
 
 ---
 
+### 🎓 [Media Técnica — Academic Resource Management Platform](https://mediatecnicapb.netlify.app/)
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive_Design-000000?style=flat-square&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/>
+</p>
+
+Web platform developed for Institución Universitaria Pascual Bravo to centralize academic resources for Media Técnica programs. Features dynamic content management through configurable JavaScript data structures, organized access to institutional Drive folders, responsive design for mobile and desktop devices, and simplified deployment with Netlify integration.
+
+<p>
+  <a href="https://mediatecnicapb.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/JDiego0/mediatecnicapb">
+    <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ### 🌐 [Nova — Full-Stack Absence Management Platform](https://github.com/JDiego0/nova)
 
 <p>
