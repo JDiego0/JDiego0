@@ -101,7 +101,7 @@ Full-stack personal finance platform built with Spring Boot, React, and PostgreS
 
 ---
 
-### 🎓 [Media Técnica — Academic Resource Management Platform](https://mediatecnicapb.netlify.app/)
+### 🎓 [Media Técnica — Academic Resource Management Platform](https://mediatecnica.netlify.app/)
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
