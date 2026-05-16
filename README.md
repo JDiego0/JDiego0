@@ -126,7 +126,7 @@ Web platform developed for Institución Universitaria Pascual Bravo to centraliz
 
 ---
 
-### 🌐 [Nova — Full-Stack Absence Management Platform](https://github.com/JDiego0/nova)
+### 🌐 [Nova — Full-Stack Absence Management Platform](https://nova-backend-c3ui.onrender.com/)
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -137,6 +137,16 @@ Web platform developed for Institución Universitaria Pascual Bravo to centraliz
 </p>
 
 Full-stack platform to centralize employee absence management. Includes RESTful APIs built with Node.js, Express, and MySQL — with MongoDB for audit logging. Implements secure authentication (JWT + BCrypt), HTTP security headers, rate limiting, and AI-based request analysis. **Deployed in production on Render.**
+
+<p>
+  <a href="https://nova-backend-c3ui.onrender.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/JDiego0/nova">
+    <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
